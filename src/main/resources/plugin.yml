@@ -1,0 +1,6 @@
+name: SheepColorChanger
+description: Plugin that allows you to shift right click a sheep to change it's wool color
+version: ${project.version}
+api-version: 1.19
+main: com.iamsoccer.plugins.sheepcolorchanger.SheepColorChanger
+author: IAmSoccer
